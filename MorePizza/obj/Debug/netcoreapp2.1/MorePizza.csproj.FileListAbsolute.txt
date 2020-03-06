@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MorePizza\MorePizza\bin\Debug\netcoreapp2.1\MorePizza.deps.json
+C:\Users\HP\source\repos\MorePizza\MorePizza\bin\Debug\netcoreapp2.1\MorePizza.runtimeconfig.json
+C:\Users\HP\source\repos\MorePizza\MorePizza\bin\Debug\netcoreapp2.1\MorePizza.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MorePizza\MorePizza\bin\Debug\netcoreapp2.1\MorePizza.dll
+C:\Users\HP\source\repos\MorePizza\MorePizza\bin\Debug\netcoreapp2.1\MorePizza.pdb
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.AssemblyInfo.cs
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.dll
+C:\Users\HP\source\repos\MorePizza\MorePizza\obj\Debug\netcoreapp2.1\MorePizza.pdb
